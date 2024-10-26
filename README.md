@@ -1,4 +1,4 @@
-# Gerador de Senha Aleatória
+# Implementação da classe funcionário
 
 Este projeto contém os atributos e métodos para determinadas ações da classe funcionário.
 
